@@ -7,30 +7,31 @@ public class TimeInterval {
 	private double timeInterval;
 	private boolean[] dayInWeek = {false,false,false,false,false};
 	
-	public double getTimeBegin() {
+	public double getTimeBegin(){
 		return timeBegin;
 	}
-	public void setTimeBegin(double d) {
+	
+	public void setTimeBegin(double d){
 		this.timeBegin = d;
 	}
-	public double getTimeEnd() {
+	
+	public double getTimeEnd(){
 		return timeEnd;
 	}
-	public void setTimeEnd(double timeEnd) {
+	
+	public void setTimeEnd(double timeEnd){
 		this.timeEnd = timeEnd;
 	}
-	public double getTimeInterval() {
+	
+	public double getTimeInterval(){
 		return timeInterval;
 	}
-	public void setDaysInWeek(int n)
-	{
+	
+	public void setDaysInWeek(int n){
 		dayInWeek[n] = true;
 	}
-	public boolean[] getDaysInWeek()
-	{
+	
+	public boolean[] getDaysInWeek(){
 		return dayInWeek;
 	}
-	
-	
-
 }

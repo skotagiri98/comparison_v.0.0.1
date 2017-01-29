@@ -16,8 +16,7 @@ public class Main {
 		
 		String line = reader.readLine();
 		
-		while (line != null)
-		{
+		while (line != null){
 			Course temp = new Course(line);
 			temp.generate();
 			spring2017.setHmValues(temp.getCourseId(), temp.getCourseTime());
@@ -25,16 +24,12 @@ public class Main {
 		}
 		
 		
-		for(String temp: spring2017.getHm().keySet())
-		{
+		for(String temp: spring2017.getHm().keySet()){
 			
 			double value = spring2017.getHm().get(temp).getTimeBegin();
 			boolean[] dayValue = spring2017.getHm().get(temp).getDaysInWeek();
 			System.out.println("CourseId: " + temp + " " + "Time Begin: " 
-			+ value + "First Day of the Week: " + dayValue[0]);
+			+ value + "First Day of the Week: " + dayValue[3]);
 		}
 	}
-
-		
-
 }
