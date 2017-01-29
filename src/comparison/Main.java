@@ -17,7 +17,6 @@ public class Main {
 		String line = reader.readLine();
 		
 		while (line != null){
-			System.out.println(line);
 			Course temp = new Course(line);
 			temp.generate();
 			spring2017.setHmValues(temp.getCourseId(), temp.getCourseTime());
