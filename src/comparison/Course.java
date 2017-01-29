@@ -1,3 +1,4 @@
+
 package comparison;
 
 import java.util.ArrayList;
@@ -51,30 +52,68 @@ public class Course {
 			this.words = wordList;
 		}
 	
-	public void generate(){
+	public void generate()
+	{
 		
-		for(String temp: this.words){
+		for(String temp: this.words)
+		{
 			if((temp.length() == 5) && (StringUtils.isNumeric(temp)))
 				this.courseId = temp; 
 		}
 		
-		for(String temp: this.words){
-			if(temp.length() == 13 && temp.substring(11).equals("AM")){
+		for(String temp: this.words)
+		{
+			if(temp.length() == 13 && temp.substring(11).equals("AM"))
+			{
 				temp = temp.replaceAll("-"," ");
 				temp = temp.replaceAll(":", ".");
 				courseTime.setTimeBegin(Double.parseDouble(temp.substring(0, 5)));
 				courseTime.setTimeEnd(Double.parseDouble(temp.substring(6,11)));
-			} else if (temp.length() == 13 && temp.substring(11).equals("PM")){
+			} 
+			else if (temp.length() == 13 && temp.substring(11).equals("PM"))
+			{
 				temp = temp.replaceAll("-"," ");
 				temp = temp.replaceAll(":", ".");
 				courseTime.setTimeBegin((Double.parseDouble(temp.substring(0, 5))) + 12.0);
 				courseTime.setTimeEnd((Double.parseDouble(temp.substring(6,11))) + 12.0);
 			}
 		}
-		
+		String days = words.get(3);
+		while(days.length() >=  0)
+		{
+			if(days.charAt(0) == 'M')
+			{
+				courseTime.setDaysInWeek(0);
+				days = days.substring(1);
+			}
+			else if(days.charAt(0) == 'W')
+			{
+				courseTime.setDaysInWeek(2);
+				days = days.substring(1);
+			}
+			else if(days.charAt(0) == 'T')
+			{
+				if(days.charAt(1) =='U')
+				{
+					courseTime.setDaysInWeek(1);
+					days = days.substring(2);
+				}
+				else if(days.charAt(1) =='H')
+				{
+					courseTime.setDaysInWeek(1);
+					days = days.substring(2);
+				}
+			}
+			else if(days.charAt(0) == 'F')
+			{
+				courseTime.setDaysInWeek(4);
+				days = days.substring(1);
+			}
+		}
 	}
 
-	public String getCourseId() {
+	public String getCourseId() 
+	{
 		return courseId;
 	}
 	

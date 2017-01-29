@@ -10,13 +10,14 @@ public class Main {
 
 	public static void main(String[] args) throws Exception{
 		
-		FileReader file = new FileReader("D:/Users/skota/Downloads/Spring_2017.txt");
+		FileReader file = new FileReader("Spring_2017.txt");
 		BufferedReader reader = new BufferedReader(file);
 		CourseList spring2017 = new CourseList();
 		
 		String line = reader.readLine();
 		
-		while (line != null){
+		while (line != null)
+		{
 			Course temp = new Course(line);
 			temp.generate();
 			spring2017.setHmValues(temp.getCourseId(), temp.getCourseTime());
@@ -24,10 +25,13 @@ public class Main {
 		}
 		
 		
-		for(String temp: spring2017.getHm().keySet()){
+		for(String temp: spring2017.getHm().keySet())
+		{
 			
 			double value = spring2017.getHm().get(temp).getTimeBegin();
-			System.out.println("CourseId: " + temp + " " + "Time Begin: " + value);
+			boolean[] dayValue = spring2017.getHm().get(temp).getDaysInWeek();
+			System.out.println("CourseId: " + temp + " " + "Time Begin: " 
+			+ value + "First Day of the Week: " + dayValue[0]);
 		}
 	}
 

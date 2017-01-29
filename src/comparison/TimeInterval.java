@@ -5,6 +5,7 @@ public class TimeInterval {
 	private double timeBegin = 0;
 	private double timeEnd = 0;
 	private double timeInterval;
+	private boolean[] dayInWeek = {false,false,false,false,false};
 	
 	public double getTimeBegin() {
 		return timeBegin;
@@ -21,7 +22,14 @@ public class TimeInterval {
 	public double getTimeInterval() {
 		return timeInterval;
 	}
-	
+	public void setDaysInWeek(int n)
+	{
+		dayInWeek[n] = true;
+	}
+	public boolean[] getDaysInWeek()
+	{
+		return dayInWeek;
+	}
 	
 	
 
