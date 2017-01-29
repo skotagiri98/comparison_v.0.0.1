@@ -17,6 +17,7 @@ public class Course {
 	public Course(String readerInput){
 		this.line = readerInput;
 		generateSetOfWords();
+		courseTime = new TimeInterval();
 	}
 
 	public void setReaderInput(String readerInput) {
@@ -29,7 +30,7 @@ public class Course {
 			
 			boolean word = false;
 			
-			try{
+			
 				int endOfLine = (int) line.length() - 1;
 				int startOfWord = 0;
 				
@@ -47,9 +48,6 @@ public class Course {
 						wordList.add(line.substring(startOfWord));
 					}
 				}
-			} catch(NullPointerException e){
-				
-			}
 			this.words = wordList;
 		}
 	
@@ -65,12 +63,12 @@ public class Course {
 				temp = temp.replaceAll("-"," ");
 				temp = temp.replaceAll(":", ".");
 				courseTime.setTimeBegin(Double.parseDouble(temp.substring(0, 5)));
-				courseTime.setTimeEnd(Double.parseDouble(temp.substring(6,12)));
+				courseTime.setTimeEnd(Double.parseDouble(temp.substring(6,11)));
 			} else if (temp.length() == 13 && temp.substring(11).equals("PM")){
 				temp = temp.replaceAll("-"," ");
 				temp = temp.replaceAll(":", ".");
 				courseTime.setTimeBegin((Double.parseDouble(temp.substring(0, 5))) + 12.0);
-				courseTime.setTimeEnd((Double.parseDouble(temp.substring(6,12))) + 12.0);
+				courseTime.setTimeEnd((Double.parseDouble(temp.substring(6,11))) + 12.0);
 			}
 		}
 		
