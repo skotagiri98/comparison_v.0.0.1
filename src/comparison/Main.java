@@ -5,10 +5,15 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.HashMap;
+import java.io.*;
+import java.util.Scanner;
 
-public class Main {
 
-	public static void main(String[] args) throws Exception{
+public class Main 
+{
+
+	public static void main(String[] args) throws Exception
+	{
 		
 		FileReader file = new FileReader("Spring_2017.txt");
 		BufferedReader reader = new BufferedReader(file);
@@ -16,20 +21,19 @@ public class Main {
 		
 		String line = reader.readLine();
 		
-		while (line != null){
+		while (line != null)
+		{
 			Course temp = new Course(line);
 			temp.generate();
 			spring2017.setHmValues(temp.getCourseId(), temp.getCourseTime());
 			line = reader.readLine();
 		}
+		System.out.println("Enter class numbers with a "
+				+ "space in between each inputted class number, hit enter at end.");
+		Scanner scan = new Scanner(System.in);
+		String classNums = scan.nextLine();
 		
 		
-		for(String temp: spring2017.getHm().keySet()){
-			
-			double value = spring2017.getHm().get(temp).getTimeBegin();
-			boolean[] dayValue = spring2017.getHm().get(temp).getDaysInWeek();
-			System.out.println("CourseId: " + temp + " " + "Time Begin: " 
-			+ value + "First Day of the Week: " + dayValue[3]);
-		}
+		
 	}
 }
