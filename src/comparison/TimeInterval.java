@@ -31,7 +31,24 @@ public class TimeInterval {
 		dayInWeek[n] = true;
 	}
 	
-	public boolean[] getDaysInWeek(){
-		return dayInWeek;
+	public boolean isMonday()
+	{
+		return dayInWeek[0];
+	}
+	public boolean isTuesday()
+	{
+		return dayInWeek[1];
+	}
+	public boolean isWednesday()
+	{
+		return dayInWeek[2];
+	}
+	public boolean isThursday()
+	{
+		return dayInWeek[3];
+	}
+	public boolean isFriday()
+	{
+		return dayInWeek[4];
 	}
 }

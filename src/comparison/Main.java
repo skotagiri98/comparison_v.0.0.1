@@ -28,12 +28,10 @@ public class Main
 			spring2017.setHmValues(temp.getCourseId(), temp.getCourseTime());
 			line = reader.readLine();
 		}
+		
 		System.out.println("Enter class numbers with a "
 				+ "space in between each inputted class number, hit enter at end.");
 		Scanner scan = new Scanner(System.in);
 		String classNums = scan.nextLine();
-		
-		
-		
 	}
 }
