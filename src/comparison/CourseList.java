@@ -18,10 +18,4 @@ public class CourseList{
 	public void setHmValues(String courseId, TimeInterval courseTime) {
 		this.hm.put(courseId, courseTime);
 	}
-	
-	
-	
-	
-
 }
-
