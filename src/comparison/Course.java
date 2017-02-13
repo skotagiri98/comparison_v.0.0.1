@@ -1,4 +1,3 @@
-
 package comparison;
 
 import java.util.ArrayList;
@@ -14,11 +13,14 @@ public class Course {
 	private ArrayList<String> words = new ArrayList<>();
 	private String courseId;
 	private TimeInterval courseTime;
+	private boolean hasLecture = false;
 	
 	public Course(String readerInput){
 		this.line = readerInput;
 		generateSetOfWords();
 		courseTime = new TimeInterval();
+		AllCourses allLines = new AllCourses();
+		allLines.addLine(words);
 	}
 
 	public void setReaderInput(String readerInput) {
@@ -50,13 +52,14 @@ public class Course {
 					}
 				}
 			this.words = wordList;
+			
 		}
 	
 	public void generate(){
 		
 		for(String temp: this.words){
 			if((temp.length() == 5) && (StringUtils.isNumeric(temp)))
-				this.courseId = temp; 
+				this.courseId = temp;
 		}
 		
 		for(String temp: this.words){
@@ -65,7 +68,7 @@ public class Course {
 				temp = temp.replaceAll(":", ".");
 				courseTime.setTimeBegin(Double.parseDouble(temp.substring(0, 5)));
 				courseTime.setTimeEnd(Double.parseDouble(temp.substring(6,11)));
-			} 
+			}
 			else if (temp.length() == 13 && temp.substring(11).equals("PM")){
 				temp = temp.replaceAll("-"," ");
 				temp = temp.replaceAll(":", ".");
