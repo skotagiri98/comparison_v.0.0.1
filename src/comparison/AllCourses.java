@@ -23,16 +23,27 @@ public class AllCourses
 	{
 		allCourses.add(temp);
 	}
+	public ArrayList<String> printHashMap()
+	{
+		ArrayList<String> ans = new ArrayList<String>();
+		for(String temp: hm.keySet())
+		{
+			ans.add(temp);
+			ans.add(hm.get(temp).toString());
+		}
+		return ans;
+	}
 	public void makeClasses()
 	{
 		boolean hasLecture = false;
 		for(int i = 0; i < allCourses.size(); i++)
 		{
-			if(allCourses.get(i).get(0).equals("LEC"))
+			if(allCourses.get(i).size() > 0){
+			if((allCourses.get(i).size() > 0) && (allCourses.get(i).get(0).equals("LEC")))
 			{
 				hasLecture = true;
 			}
-			if(!hasLecture)
+			else if(!hasLecture)
 			{
 				for(String temp: allCourses.get(i))
 				{
@@ -95,8 +106,8 @@ public class AllCourses
 			}
 			while(hasLecture)
 			{
-				if((allCourses.get(i+1).get(0) != null && ((allCourses.get(i+1).get(0)).length() != 5) && 
-						!(StringUtils.isNumeric(allCourses.get(i+1).get(0)))))
+				if((allCourses.get(i+1).size() > 0) && ((allCourses.get(i+1).get(0) != null && ((allCourses.get(i+1).get(0)).length() != 5) && 
+						!(StringUtils.isNumeric(allCourses.get(i+1).get(0))))))
 				{
 					hasLecture = false;
 				}
@@ -175,7 +186,7 @@ public class AllCourses
 				hm.put(courseID, courseTime);
 				hm.put(lecID, lecTime);
 			}
-		}
+		}}
 	}
 
 }

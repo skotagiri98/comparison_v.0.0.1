@@ -1,4 +1,4 @@
-                                                     State University of New York at Stony Brook
+﻿                                                     State University of New York at Stony Brook
                                         Schedule of Classes for Spring 2017 - Full Spring Semester Session
                                                     Statements herein were correct as of 1/24/2017
 
@@ -109,7 +109,7 @@ AAS     385             Translation Studies/Asian Lang                          
 
 AAS     392    F        SocSci Topics: Asian&AsAm Stds                                   Credit(s): 3                               SBC: SBS+
                         Prerequisite: Junior or Senior Standing
-                        #THEORY/METHOD FOR RESEARCH                              54483      LEC      01       MW      04:00-05:20PM    MELVILLE LBR    N4006   Gregory Ruf
+                                                54483      LEC      01       MW      04:00-05:20PM    MELVILLE LBR    N4006   Gregory Ruf
 
 
 AAS     447             Readings Asian & Asian Am Stds                                   Credit(s): 1 to 6
@@ -138,7 +138,7 @@ AAS     447             Readings Asian & Asian Am Stds                          
 
 AAS     472    J        Topics in Asian Philosophy (I)                                   Credit(s): 3                               SBC: HFA+
                         Prerequisite: U3 or U4 status; two courses in PHI, in AAS or together
-                        #IBN ARABI                                               56100      LEC      02       W       05:30-08:20PM    FREY HALL       112     William Chittick
+                                                                56100      LEC      02       W       05:30-08:20PM    FREY HALL       112     William Chittick
 
 
 AAS     473    J        Orientalism                                                      Credit(s): 3                               SBC: HFA+
@@ -456,7 +456,7 @@ Undergraduate Courses                                                           
 
 AFH     390    G        Topics in Africana Studies                                       Credit(s): 3                               SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: AFS 101 or 102 or two courses in the humanities
-                        #SPIKE LEE                                               56129       LEC      01        TUTH    10:00-11:20AM   FREY HALL          309     Tracey Walters
+                                                                 56129       LEC      01        TUTH    10:00-11:20AM   FREY HALL          309     Tracey Walters
 
 
 AFH     447             Readings in Africana Studies                                     Credit(s): 1 to 3                          SBC: ESI
@@ -967,7 +967,7 @@ ANP     362    E        Evolution of Social Complexity                          
 
 ANP     391             Topics in Biological Anthro                                       Credit(s): 3
                         Prerequisite: ANP 120; Advisory prerequisite: One other ANP course
-                        #EVOLUTION OF SEX                                         54232       LEC     01       MWF    10:00-10:53AM   SOCBEHAV SCI    N501   Amy Lu
+                                                            54232       LEC     01       MWF    10:00-10:53AM   SOCBEHAV SCI    N501   Amy Lu
 
 
 ANP     404             Human Osteology                                                   Credit(s): 3
@@ -1066,7 +1066,7 @@ ANT     372    J        Fam, Marriage, Kinship: China                           
 ANT     402             Problems in Archaeology                                           Credit(s): 3                              SBC: ESI; SBS+
                         Prerequisite: ANT 104; Advisory prerequisite: Two other archaeology courses
                         Note: Offered as ANT 402, ANT 620 and DPA 620
-                        #ANIMAL TOOL USE                                          52278        SEM    S01      MW       02:30-03:50PM   SOCBEHAV SCI       N501    Sonia Harmand
+                                                          52278        SEM    S01      MW       02:30-03:50PM   SOCBEHAV SCI       N501    Sonia Harmand
 
 
 ANT     418             Lithic Technology                                                 Credit(s): 3                              SBC: ESI; SPK; TECH
@@ -1227,7 +1227,7 @@ ARH     334    G        Performance Art I                                       
 
 ARH     392    G        Topics in Modern Art                                             Credit(s): 3                                    SBC: HFA+
                         Prerequisite: ARH 206 and U3 or U4 standing
-                        #MODERN CRAFT IN U.S. 1890-1940                          54261       LEC      01         TUTH     01:00-02:20PM         STALLER CTR    3216   Noga Bernstein
+                                              54261       LEC      01         TUTH     01:00-02:20PM         STALLER CTR    3216   Noga Bernstein
 
 
 ARH     475             Undergrad Teachng Practicum I                                    Credit(s): 3                                    SBC: EXP+
@@ -1302,7 +1302,7 @@ ARH     488             Internship                                              
 
 ARH     490             Senior Seminar in Art History                                     Credit(s): 3
                         Prerequisites: U3 or U4 standing; ARH 101 and 102; one additional ARH course
-                        #WHEN ART MEETS PHILOSOPHY                                70675        SEM      S01      TU          04:00-07:00PM         STALLER CTR                   2205       Elisabeth Spettel
+                                               70675        SEM      S01      TU          04:00-07:00PM         STALLER CTR                   2205       Elisabeth Spettel
 
 
 ARH     495             Sr Honors Proj Art Hist & Crit                                    Credit(s): 3                                      SBC: EXP+
@@ -1543,7 +1543,7 @@ ARS     488             Internship                                              
 
 ARS     491             Topics in Studio Theory & Prac                                   Credit(s): 3
                         Prerequisite: Permission of department
-                        #EXPERIMENTAL PRINTMAKING                                70145      LAB      L01      F            10:00-02:40PM       STALLER CTR    4263   Lorena Salcedo-Watson
+                                                    70145      LAB      L01      F            10:00-02:40PM       STALLER CTR    4263   Lorena Salcedo-Watson
 
 
 ARS     495             Sr Honors Project in Studi Art                                   Credit(s): 3                                   SBC: EXP+
@@ -4116,7 +4116,7 @@ CCS     202    D        Film Genres                                             
 CCS     311    G        Gender and Genre in Film                                       Credit(s): 3                                 SBC: HFA+
                         Prerequisite: one D.E.C. B or HUM course and one course from the following: CCS 101, CCS 201, CLL 215, CLT 235, HUF 211, HUG 221, HUI 231, HUR
                         241, THR 117, EGL 204, WST 291, WST 305
-                        #GENDERED                                                          LEC      01       TUTH       10:00-10:53AM   PHYSICS               P116       Simone West
+                                                                    LEC      01       TUTH       10:00-10:53AM   PHYSICS               P116       Simone West
                         IDENTITIES/POPCULTURE
                                                                                51621       LAB      L01      TH         07:00-09:00PM   MELVILLE LBR          N4072      Simone West
 
@@ -4124,7 +4124,7 @@ CCS     311    G        Gender and Genre in Film                                
 CCS     383    H        Topics in Game Studies                                         Credit(s): 3                                 SBC: ESI; STAS
                         Prerequisite: CCS 101 and U3 or U4 status
                         Note: Offered as CCS 383 and DIA 383
-                        #GAME AND GAMER CULTURES                                           LEC      01       M          11:00-12:53PM   MELVILLE LBR          W4535      James Cohen
+                                                               LEC      01       M          11:00-12:53PM   MELVILLE LBR          W4535      James Cohen
                                                                                56120       LAB      L01      W          11:00-12:53PM   MELVILLE LBR          W4535      James Cohen
 
 
@@ -4152,7 +4152,7 @@ CCS     395    H        Digital Cultural Studies                                
 
 CCS     401             Sr Sem in Cinema/Cult Studies                                    Credit(s): 3                                   SBC: SPK; WRTD
                         Prerequisite: CCS major and U4 standing; CCS 301
-                        #HOLOCAUST AND MEMORY IN                                            LEC      01      M         11:00-12:53PM       HUMANITIES     3014   Izabela Kalinowska-Blackwood
+                                                              LEC      01      M         11:00-12:53PM       HUMANITIES     3014   Izabela Kalinowska-Blackwood
                         CINEMA
                                                                                  51448      LAB      L01     W         11:00-12:53PM       HUMANITIES     3014   Izabela Kalinowska-Blackwood
 
@@ -5017,20 +5017,20 @@ CLT     123    B        Sexuality in Literature                                 
 
 CLT     330    G        Literary Genres                                                  Credit(s): 3                                   SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory prerequisite: Two courses in literature
-                        #THE AMERICAN AIDS NOVEL                                 50675         LEC   01      TUTH      10:00-11:20AM        PHYSICS           P127       Kenneth Pinion
+                                                  50675         LEC   01      TUTH      10:00-11:20AM        PHYSICS           P127       Kenneth Pinion
 
 
 CLT     335    G        Interdisciplnry Study of Film                                    Credit(s): 3                                   SBC: HFA+
                         Prerequisite: one D.E.C. B or HUM course and one course from the following: CCS 101, CCS 201, CLL 215, CLT 235, HUF 211, HUG 221, HUI 231, HUR
                         241, THR 117
-                        #OUTCASTS AMONG US                                                     LEC   01      MW        11:00-11:53AM        MELVILLE LBR      N4072      Marley Rosner
+                                                                          LEC   01      MW        11:00-11:53AM        MELVILLE LBR      N4072      Marley Rosner
                                                                                  50677         LAB   L01     W         07:00-09:00PM        MELVILLE LBR      W4535      Marley Rosner
 
 
 CLT     362    G        Literature and Ideas                                             Credit(s): 3                                   SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisites: Two courses in literature
                         Note: .
-                        #NOVEL IDEAS                                             51629         LEC   01      MW        02:30-03:50PM        MELVILLE LBR      N4006      Joseph Kampff
+                                                             51629         LEC   01      MW        02:30-03:50PM        MELVILLE LBR      N4006      Joseph Kampff
 
 
 CLT     444             Experiential Learning                                            Credit(s): 0                                   SBC: EXP+
@@ -5584,17 +5584,17 @@ CSE     380             Cmptr Game Prgmmng                                      
 
 CSE     390             Topics in Computer Science                                       Credit(s): 3
                         Prerequisite: CSE Major
-                        #INTRO. TO NAT. LANG. PROCESS                            42515       LEC     01        TUTH       10:00-11:20AM        HUMANITIES                    3018      Niranjan Balasubramanian
+                                             42515       LEC     01        TUTH       10:00-11:20AM        HUMANITIES                    3018      Niranjan Balasubramanian
 
 
 CSE     391             Topics in Computer Science                                       Credit(s): 3
                         Prerequisite: CSE Major
-                        #BENEVOLENT COMPUTING                                    42132       LEC     01        MW         11:30-12:50PM        COMPUTER SCI                  2205      Anthony Scarlatos
+                                                          42132       LEC     01        MW         11:30-12:50PM        COMPUTER SCI                  2205      Anthony Scarlatos
 
 
 CSE     392             Topics in Computer Science                                       Credit(s): 3
                         Prerequisite: CSE Major
-                        #SOCIAL NETWORK ANALYSIS                                 54209       LEC     01        MF         01:00-02:20PM        HUMANITIES                    3018      Jie Gao
+                                                   54209       LEC     01        MF         01:00-02:20PM        HUMANITIES                    3018      Jie Gao
 
 
 CSE     475             Undergrad Teaching Practicum                                     Credit(s): 3                                    SBC: EXP+
@@ -6094,7 +6094,7 @@ DIA     207    D        Technologies of Representation                          
 DIA     383    H        Topics in Game Studies                                          Credit(s): 3                                    SBC: ESI; STAS
                         Prerequisite: CCS 101 and U3 or U4 status
                         Note: Offered as DIA 383 and CCS 383
-                        #GAME AND GAMER CULTURES                                           LEC      01       M         11:00-12:53PM       MELVILLE LBR    W4535   James Cohen
+                                                                LEC      01       M         11:00-12:53PM       MELVILLE LBR    W4535   James Cohen
                                                                                 56295      LAB      L01      W         11:00-12:53PM       MELVILLE LBR    W4535   James Cohen
 
 
@@ -6142,7 +6142,7 @@ EBH     370             Advanced Human Genetics                                 
 
 EBH     391             Topics/Human Evolutionary Bio                                   Credit(s): 3
                         Prerequisite: ANP 200 or ANP 201 or BIO 302; Advisory prerequisite: One other EBH or ANP course
-                        #EVOLUTION OF SEX                                       54306       LEC     01     MWF     10:00-10:53AM         SOCBEHAV SCI              N501     Amy Lu
+                                                         54306       LEC     01     MWF     10:00-10:53AM         SOCBEHAV SCI              N501     Amy Lu
 
 
 EBH     487             Research/Human EvolutionaryBio                                  Credit(s): 0 to 6                        SBC: EXP+
@@ -6651,9 +6651,9 @@ EGL     301             Authors/Periods/Topics/Int Wrt                          
                         Prerequisite: EGL 204; Pre- or corequisite: EGL 207
                         Note: INTENSIVE WRITING COURSE
                         No adds after the first week of classes
-                        #LITERATURE OF EMPIRE                                 49966       SEM   S01   MW     05:30-06:50PM   MELVILLE LBR       N3085   Michael Tondre
-                        #REBELS AND REFORMERS                                 49587       SEM   S02   MW     02:30-03:50PM   SOCBEHAV SCI       N107    Nicole Garret
-                        #WRITING ABOUT CINEMA                                 54089       SEM   S03   TUTH   01:00-02:20PM   EARTH&SPACE        177     Michael Rubenstein
+                                                  49966       SEM   S01   MW     05:30-06:50PM   MELVILLE LBR       N3085   Michael Tondre
+                                                 49587       SEM   S02   MW     02:30-03:50PM   SOCBEHAV SCI       N107    Nicole Garret
+                                               54089       SEM   S03   TUTH   01:00-02:20PM   EARTH&SPACE        177     Michael Rubenstein
 
 
 EGL     302    G        Medieval Literature in English                                 Credit(s): 3                      SBC: HFA+
@@ -6688,13 +6688,13 @@ EGL     312    G        Romantic Literature in English                          
 EGL     320    G        Modern and Contemporary Lit                                        Credit(s): 3                                SBC: HFA+
                         Pre- or Corequisite: EGL 204; Advisory Prerequisite: EGL 218, 224, or 226
                         Note: NO ADDS AFTER THE FIRST WEEK OF CLASSES
-                        #WORLD LIT AFTER1900AFRICA/ASIA                            51671      LEC     01        MW         02:30-03:50PM   MELVILLE LBR    N4000   Eric Haralson
+                                           51671      LEC     01        MW         02:30-03:50PM   MELVILLE LBR    N4000   Eric Haralson
 
 
 EGL     322    G        Modern and Contemporary Lit                                        Credit(s): 3                                SBC: HFA+
                         Pre- or Corequisite: EGL 204; Advisory Prerequisite: EGL 218, 224, or 226
                         Note: No adds after the first week of classes
-                        #LITERATURE OF 9/11                                        54091      LEC     01        TUTH       02:30-03:50PM   FREY HALL       112     Stacey Olster
+                                                           54091      LEC     01        TUTH       02:30-03:50PM   FREY HALL       112     Stacey Olster
 
 
 EGL     324    G        Ecofeminism, Literature & Film                                     Credit(s): 3                                SBC: HFA+
@@ -6729,30 +6729,30 @@ EGL     346    G        Shakespeare II                                          
 EGL     361    G        Poetry in English                                                  Credit(s): 3                                SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: One literature course at the 200 level or higher
                         Note: No adds after first week of classes.
-                        #LYRICPOETRYRENAISSANCE/PRESE                              54099      LEC     01        TUTH       04:00-05:20PM   FREY HALL       224     Rowan Phillips
+                                                 54099      LEC     01        TUTH       04:00-05:20PM   FREY HALL       224     Rowan Phillips
                         NT
 
 
 EGL     369    G        Topics Ethnic Amer Lit/Culture                                     Credit(s): 3                                SBC: HFA+; USA
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: One literature course at the 200 level or higher
-                        #MAGICAL REALISM                                           56098      LEC     30        FLEX       TBA             ONLINE                  Nicole Galante
+                                                                56098      LEC     30        FLEX       TBA             ONLINE                  Nicole Galante
 
 
 EGL     370    G        Literature and Ethics                                              Credit(s): 3                                SBC: CER; HFA+
                         Prerequisite: EGL 204
-                        #NARRATIVES OF EVIL                                        56099      SEM     S01       TUTH       11:30-12:50PM   MELVILLE LBR    N4000   Andrew Flescher
+                                                            56099      SEM     S01       TUTH       11:30-12:50PM   MELVILLE LBR    N4000   Andrew Flescher
 
 
 EGL     372    G        Topics in Women and Literature                                     Credit(s): 3                                SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: One literature course at the 200 level or higher
                         Note: Offered as EGL 32 and WST 37
-                        #WOMEN & MULTIETHNIC LIT.                                  51675      LEC     01        MW         04:00-05:20PM   MELVILLE LBR    N4072   Nafiseh Hamidi
+                                                       51675      LEC     01        MW         04:00-05:20PM   MELVILLE LBR    N4072   Nafiseh Hamidi
 
 
 EGL     373    J        Lit in English from Non West                                       Credit(s): 3                                SBC: GLO; HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: One literature course at the 200 level or higher
                         Note: NO ADDS AFTER FIRST WEEK OF CLASSES
-                        #GLOBAL MIGRANT CULTURES                                   52105      LEC     01        TUTH       01:00-02:20PM   CHEMISTRY       126     Jeffrey Santa Ana
+                                                       52105      LEC     01        TUTH       01:00-02:20PM   CHEMISTRY       126     Jeffrey Santa Ana
 
 
 EGL     379    J        Native American Texts & Contxt                                     Credit(s): 3                                SBC: HFA+; USA
@@ -6781,7 +6781,7 @@ EGL     381             Adv Analytic & Argument Writ                            
 EGL     391    G        American or Anglophone Lit                                         Credit(s): 3                                 SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: One literature course at the 200 level or higher
                         Note: No adds after the first week of classes
-                        #THE POSTCOLONIAL CITY                                     51275      LEC     01        TUTH       02:30-03:50PM     FREY HALL                     224    Laura James
+                                                    51275      LEC     01        TUTH       02:30-03:50PM     FREY HALL                     224    Laura James
 
 
 EGL     440             Perf & Tech Teachng Lit & Comp                                     Credit(s): 3                                 SBC: CER; EXP+; SPK
@@ -6899,7 +6899,7 @@ EGL     491             British Literature before 1800                          
                         Prerequisite: Admission to English Honors Program; EGL 204
                         Note: English Honors Students Only
                         NO ADDS AFTER THE FIRST WEEK OF CLASSES
-                        #CONTEMPORARY BRITISH NOVEL                               50761       SEM      S01       TUTH      10:00-11:20AM        HUMANITIES     2047   Justin Johnston
+                                                 50761       SEM      S01       TUTH      10:00-11:20AM        HUMANITIES     2047   Justin Johnston
 
 
 EGL     496             Senior Honors Project                                             Credit(s): 3
@@ -8056,7 +8056,7 @@ EUR     201    I        Dvpt of European Culture                                
 
 EUR     390    I        Special Topics in Euro Studies                                   Credit(s): 3                               SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: To be announced with the topic
-                        #LITERATURE IN PERFORMANCE                               70047      LEC     01        TUTH      10:00-11:20AM      HUMANITIES                  2128        Nicholas Rzhevsky
+                                               70047      LEC     01        TUTH      10:00-11:20AM      HUMANITIES                  2128        Nicholas Rzhevsky
 
 
 EUR     447             Readings in Euro Studies                                         Credit(s): 1 to 6
@@ -9100,14 +9100,14 @@ HIS     292    K&4      U.S Social History, 1860-1930                           
 
 HIS     300    F        Topics in Global History                                        Credit(s): 3                             SBC: SBS+
                         Prerequisites: U3 or U4 standing; one course in 20th-century history
-                        #APOCALYPSE THEN AND NOW                                70003          LEC   01     TUTH     01:00-02:20PM   FREY HALL       224     Eric Miller
+                                                70003          LEC   01     TUTH     01:00-02:20PM   FREY HALL       224     Eric Miller
 
 
 HIS     301             Reading and Writing History                                     Credit(s): 3                             SBC: ESI
                         Prerequisites: At least six credits in history
                         Note: Failure to attend first class meeting will result in de-registration from the class.
-                        #OLD/NEW WORLD ENCOUNTERS                               48546          LEC   01     TUTH     01:00-02:20PM   SOCBEHAV SCI    N318    Brooke Larson
-                        #HIS. OF                                                48547          LEC   02     MW       02:30-03:50PM   SOCBEHAV SCI    S328    Nancy Tomes
+                                              48546          LEC   01     TUTH     01:00-02:20PM   SOCBEHAV SCI    N318    Brooke Larson
+                                                        48547          LEC   02     MW       02:30-03:50PM   SOCBEHAV SCI    S328    Nancy Tomes
                         ADVERTISING&PROPOGANDA
 
 
@@ -9123,8 +9123,8 @@ HIS     336    I        Women in Modern Europn History                          
 
 
 HIS     340    J        Topics in Asian History                                         Credit(s): 3                             SBC: SBS+
-                        #MARITIME CHINA IN THE AGE/SAIL                         56089          LEC   01     MW       05:30-06:50PM   SOCBEHAV SCI    S328    Iona Man-Cheong
-                        #JAPANESE WARTIME CINEMA                                56090          LEC   02     TU       04:00-07:00PM   FREY HALL       216     Janis Mimura
+                                             56089          LEC   01     MW       05:30-06:50PM   SOCBEHAV SCI    S328    Iona Man-Cheong
+                                                  56090          LEC   02     TU       04:00-07:00PM   FREY HALL       216     Janis Mimura
 
 
 HIS     344    J        Modern Japan                                                    Credit(s): 3                             SBC: SBS+
@@ -9155,7 +9155,7 @@ HIS     385    J        Aztec Civilization                                      
 
 HIS     390    I        Topics in Ancient History                                       Credit(s): 3                             SBC: SBS+
                         Prerequisites: U3 or U4 standing; one European history course
-                        #MEDIEVAL FRANCE                                        56106          LEC   01     TUTH     11:30-12:50PM   HUMANITIES      1006    Sara Lipton
+                                                           56106          LEC   01     TUTH     11:30-12:50PM   HUMANITIES      1006    Sara Lipton
 
 
 
@@ -9166,8 +9166,8 @@ Undergraduate Courses                                                           
 
 HIS     393    I        Topics in Modern European Hist                                  Credit(s): 3                                SBC: SBS+
                         Prerequisite: HIS 102
-                        #NAZI GERMAN & THE HOLOCAUST                                        LEC      01          MW     12:00-12:53PM   MELVILLE LBR    W4550   Young-Sun Hong
-                        #THE NAZI EMPIRE                                        56114       REC      R01         F      12:00-12:53PM   SOCBEHAV SCI    N310    Young-Sun Hong
+                                                              LEC      01          MW     12:00-12:53PM   MELVILLE LBR    W4550   Young-Sun Hong
+                                                          56114       REC      R01         F      12:00-12:53PM   SOCBEHAV SCI    N310    Young-Sun Hong
                                                                                 56115       REC      R02         W      09:00-09:53AM   SOCBEHAV SCI    S228    Young-Sun Hong
                                                                                 56116       REC      R03         M      02:30-03:23PM   SOCBEHAV SCI    N318    Young-Sun Hong
 
@@ -9175,23 +9175,23 @@ HIS     393    I        Topics in Modern European Hist                          
 HIS     396    K&4      Topics in US History                                            Credit(s): 3                                SBC: SBS+
                         Prerequisites: U3 or U4 standing; HIS 103 or 104
                         Note: May be repeated as topics change. Sec 03 is also offered as WST 396.01.
-                        #SCOTLAND & THE MAKING OF                               43549       LEC      01          MW     02:30-03:50PM   SOCBEHAV SCI    N310    Ned Landsman
+                                                    43549       LEC      01          MW     02:30-03:50PM   SOCBEHAV SCI    N310    Ned Landsman
                         AMERI
-                        #FOOD AND CULTURE IN AMERICA                            56094       LEC      03          TUTH   02:30-03:50PM   MELVILLE LBR    W4525   Kelly Jones
-                        #MAIN THEMES IN AMERICAN HIST                           70758       LEC      04          TUTH   10:00-11:20AM   SOCBEHAV SCI    N310    Charles Backfish
+                                                56094       LEC      03          TUTH   02:30-03:50PM   MELVILLE LBR    W4525   Kelly Jones
+                                                  70758       LEC      04          TUTH   10:00-11:20AM   SOCBEHAV SCI    N310    Charles Backfish
 
 
 HIS     398    H        Topics in Hist of Sci & Tech                                    Credit(s): 3                                SBC: STAS
                         Prerequisite: U3 or U4 status
-                        #FRONTIERS                                              70152       LEC      01          TUTH   02:30-03:50PM   SOCBEHAV SCI    N117    Brian Conway
+                                                        70152       LEC      01          TUTH   02:30-03:50PM   SOCBEHAV SCI    N117    Brian Conway
                         OFSCIENCE/TECHNOLOGY
 
 
 HIS     401             Senior Colloquium                                               Credit(s): 3                                SBC: SPK; WRTD
                         Prerequisite: HIS 301 and permission of instructor
-                        #MEDIEVAL MURDER MYSTERIES                              56095       SEM      S01         TU     02:30-05:30PM   SOCBEHAV SCI    N303    Sara Lipton
-                        #DANCING AMERICAN HISTORY                               56096       SEM      S02         W      05:30-08:30PM   TABLER CAF      110     April Masten
-                        #AFRO-ASIAN RELATIONS                                   56097       SEM      S03         TUTH   02:30-04:00PM   SOCBEHAV SCI    N108    Shobana Shankar
+                                                 56095       SEM      S01         TU     02:30-05:30PM   SOCBEHAV SCI    N303    Sara Lipton
+                                                    56096       SEM      S02         W      05:30-08:30PM   TABLER CAF      110     April Masten
+                                                56097       SEM      S03         TUTH   02:30-04:00PM   SOCBEHAV SCI    N108    Shobana Shankar
 
 
 HIS     447             Indep Readings in History                                       Credit(s): 1 to 3
@@ -9418,18 +9418,18 @@ HON     106             Modes of Being                                          
 
 HON     110             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
-                        #THE SALON                                              53803      SEM   S01   TU     12:00-12:53PM   MELVILLE LBR    W3502   Stephen Shultz
+                                                       53803      SEM   S01   TU     12:00-12:53PM   MELVILLE LBR    W3502   Stephen Shultz
 
 
 HON     111             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
-                        #A TALE OF THREE COUNTRIES                              53906      SEM   S01   M      08:30-09:23AM   FREY HALL       222     Miryam Laifer
+                                              53906      SEM   S01   M      08:30-09:23AM   FREY HALL       222     Miryam Laifer
 
 
 HON     112             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
                         Note: Class meets only first 7 weeks
-                        #WORKING IN TEAMS                                       53740      SEM   S01   W      05:30-07:20PM   MELVILLE LBR    W3502   Joan Dickinson
+                                                 53740      SEM   S01   W      05:30-07:20PM   MELVILLE LBR    W3502   Joan Dickinson
 
 
 HON     113             Honors Topics                                                   Credit(s): 1
@@ -9442,28 +9442,28 @@ Undergraduate Courses                                                           
 
 HON     113             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
-                        #POSITIVE PSYCHOLOGY                                    53908      SEM   S01   F       01:00-01:53PM      MELVILLE LBR     W3502   Anne Moyer
+                                                    53908      SEM   S01   F       01:00-01:53PM      MELVILLE LBR     W3502   Anne Moyer
 
 
 HON     114             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
-                        #THE AMERICAN MILITARY                                  53798      SEM   S01   F       11:00-11:53AM      MELVILLE LBR     W3502   James McKenna
+                                                    53798      SEM   S01   F       11:00-11:53AM      MELVILLE LBR     W3502   James McKenna
 
 
 HON     115             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
-                        #INFECTIOUS DISEASES                                    53799      SEM   S01   W       05:00-05:53PM      ADMIN            310     Samuel Stanley
+                                                   53799      SEM   S01   W       05:00-05:53PM      ADMIN            310     Samuel Stanley
 
 
 HON     116             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
                         Note: This course will be a hybrid online/in-person experience that will be held for the first 10 weeks of classes only
-                        #PERMACULTURE & REGEN. DESIGN                           71186      SEM   S02   TU      02:30-03:53PM      MELVILLE LBR     W3502   Jessica Curran
+                                    71186      SEM   S02   TU      02:30-03:53PM      MELVILLE LBR     W3502   Jessica Curran
 
 
 HON     117             Honors Topics                                                   Credit(s): 1
                         Prerequisite: Acceptance into the Honors College
-                        #SECRET INTEL & NATL SECURITY                           53868      SEM   S01   M       10:00-10:53AM      MELVILLE LBR     W3502   Lester Paldy
+                                              53868      SEM   S01   M       10:00-10:53AM      MELVILLE LBR     W3502   Lester Paldy
 
 
 HON     201             Arts and Society                                                Credit(s): 3                        SBC: ARTS
@@ -9480,7 +9480,7 @@ HON     301             Science, Engnrg, Med, Society                           
 
 HON     401             Global Issues                                                   Credit(s): 3                        SBC: GLO
                         Prerequisite: Fourth year Honors College membership; HON 105, HON 106, HON 201, and HON 301
-                        #GLOBAL ISSUES IN THE 20TH CENT                         53739      SEM   S01   TUTH    08:30-09:50AM      FREY HALL        222     Tara Rider
+                                     53739      SEM   S01   TUTH    08:30-09:50AM      FREY HALL        222     Tara Rider
                                                                                 53795      SEM   S02   MW      02:30-03:50PM      MELVILLE LBR     W3502   Robert Crease
 
 
@@ -9598,12 +9598,12 @@ European Literature & Culture (HUE) Courses
 
 HUE     269    I        Topics in Contemp Slavic Cultr                                    Credit(s): 3                                 SBC: GLO; HUM
                         Note: May be used to satisfy English major requirements
-                        #ALLEGORY OF LOVE                                         49727      LEC      01        MW         04:00-05:20PM   FREY HALL       305     Tatyana Grenkov
+                                               49727      LEC      01        MW         04:00-05:20PM   FREY HALL       305     Tatyana Grenkov
 
 
 HUE     392    I        Topics in Slavic Studies                                          Credit(s): 3                                 SBC: HFA+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisite: One literature course at the 200 level or higher
-                        #HISTORY OF BEAUTY                                        70055      LEC      01        MW         05:30-06:50PM   FREY HALL       305     Tatyana Grenkov
+                                                      70055      LEC      01        MW         05:30-06:50PM   FREY HALL       305     Tatyana Grenkov
 
 
 HUE     487             Independent Research                                              Credit(s): 0 to 6
@@ -9796,7 +9796,7 @@ INT     201             Democracy and Capitalism                                
 
 INT     401             Global Social Problems                                            Credit(s): 3
                         Prerequisites: INT 201; U3 or U4 standing
-                        #GLOBAL SOCIAL PROBS                                      53862      SEM   S01    F      10:00-12:50PM   NOBEL HALL      C109    Jason Rose
+                                                      53862      SEM   S01    F      10:00-12:50PM   NOBEL HALL      C109    Jason Rose
 
 
 
@@ -10461,22 +10461,22 @@ JRN     381             Web Presentation                                        
 
 JRN     385             Digital Academy                                                 Credit(s): 1
                         Prerequisite: C or better in JRN 105
-                        #INTERACTIVE STORYTELLING                               70566        LAB     L01       M         04:00-05:20PM     MELVILLE LBR    W4545   Timothy McCarthy
-                        #INNOVATIONS IN AUDIENCE                                70567        LAB     L02       TH        06:00-08:00PM     MELVILLE LBR    E1337   Jihii Jolly
+                                                 70566        LAB     L01       M         04:00-05:20PM     MELVILLE LBR    W4545   Timothy McCarthy
+                                              70567        LAB     L02       TH        06:00-08:00PM     MELVILLE LBR    E1337   Jihii Jolly
                         ENGAGE
 
 
 JRN     390             Topics in Journalism                                            Credit(s): 3
                         Prerequisite: C or higher in JRN 101 or JRN 103; may vary by topic
                         Note: May be repeated as topics change
-                        #SCIENCE JOURNALISM PRACTICUM                           53543        LEC     01        TUTH      10:00-11:20AM     MELVILLE LBR    E0335   Elizabeth Bass
+                                              53543        LEC     01        TUTH      10:00-11:20AM     MELVILLE LBR    E0335   Elizabeth Bass
 
 
 JRN     391             Journalism Workshops                                            Credit(s): 1 to 2
                         Prerequisite: Varies by topic, permission of the department
-                        #HYPERLOCAL                                             54323        LEC     04        M         10:00-12:53PM     ED COMM CTR     133     Jonathan Sanders
-                        #WEATHERCASTING                                         53600        LEC     05        M         10:00-12:53PM     ED COMM CTR     133     Jonathan Sanders
-                        #WEATHERCASTING: WIND AND RAIN                          54324        LEC     06        M         10:00-12:53PM     ED COMM CTR     133     Jonathan Sanders
+                                                    54323        LEC     04        M         10:00-12:53PM     ED COMM CTR     133     Jonathan Sanders
+                                                 53600        LEC     05        M         10:00-12:53PM     ED COMM CTR     133     Jonathan Sanders
+                                        54324        LEC     06        M         10:00-12:53PM     ED COMM CTR     133     Jonathan Sanders
 
 
 JRN     392             Journalism Without Walls Prep                                   Credit(s): 1
@@ -10575,7 +10575,7 @@ KOR     312    S3       Advanced Korean II                                      
 
 KOR     331    F        Soc Sci Topics: Korean Studies                                   Credit(s): 3                                   SBC: SBS+
                         Prerequisite: U3 or U4 standing; Advisory Prerequisites: Two courses in Asian studies
-                        #KOREAN CINEMA: CULTURE AND                              70367      LEC      01         TUTH     02:30-03:50PM         LGT ENGR LAB                 154        Eun Ah Lee
+                                              70367      LEC      01         TUTH     02:30-03:50PM         LGT ENGR LAB                 154        Eun Ah Lee
                         HIS
 
 
@@ -10635,7 +10635,7 @@ LAN     111             Uncomm Taught Lang Elem I                               
                         March 4/5
                         April 8/9
                         April 29/30
-                        #ALGONQUIAN                                                  71177      LEC       01    SS       10:00-04:00PM   SOCBEHAV SCI    S216   Robert Hoberman
+                                                                        71177      LEC       01    SS       10:00-04:00PM   SOCBEHAV SCI    S216   Robert Hoberman
 
 
 LAN     447    S3       Dir Reading in Uncommon Lang                                         Credit(s): 1 to 6                       SBC: EXP+; LANG
@@ -10893,7 +10893,7 @@ LIN     350             Experimental Phonetics                                  
 
 LIN     356    I        Topics in Lang & Life in Europ                                    Credit(s): 3                            SBC: GLO; SBS+
                         Prerequisite: one LIN course or satisfaction of Skill 3 or LANG
-                        #SPAIN                                                   56170       LEC     01       MW      04:00-05:20PM   SOCBEHAV SCI    S328   Francisco Ordonez
+                                                                  56170       LEC     01       MW      04:00-05:20PM   SOCBEHAV SCI    S328   Francisco Ordonez
 
 
 LIN     370    J        Intercultural Communication                                       Credit(s): 3                            SBC: SBS+
@@ -10928,12 +10928,12 @@ LIN     382             Audiology                                               
 LIN     425             Topics in Linguistics                                          Credit(s): 3
                         Prerequisite: Varies with subject matter
                         Prerequisite Spring 2017: Completion of LIN 101 with a grade of C or higher
-                        #COMPUTER-AIDED PSYCHOLING                             51845       LEC      01       TUTH      10:00-11:20AM       SOCBEHAV SCI        S328    Chong Zhang
+                                                 51845       LEC      01       TUTH      10:00-11:20AM       SOCBEHAV SCI        S328    Chong Zhang
 
 
 LIN     426             Topics in Linguistics                                          Credit(s): 3
                         Prerequisite: Varies with subject matter
-                        #LANGUAGE AND MIND                                     56205       LEC      01       MF        01:00-02:20PM       HUMANITIES          3013    John Drury
+                                                           56205       LEC      01       MF        01:00-02:20PM       HUMANITIES          3013    John Drury
 
 
 LIN     431             Structr of Uncomm Taught Lang                                  Credit(s): 4                                     SBC: CER; SBS+; SPK
@@ -11312,7 +11312,7 @@ MAR     394    H        Envir Toxicology & Pub Health                           
 
 MAR     395             Topics in Marine Envir Science                                  Credit(s): 3
                         Prerequisite: One upper-division MAR course
-                        #BIOACOUSTICS                                           56101       LEC    01    TUTH   11:30-12:50PM   DISCOVRYHALL    152B   Joseph Warren
+                                                              56101       LEC    01    TUTH   11:30-12:50PM   DISCOVRYHALL    152B   Joseph Warren
 
 
 MAR     447             Readings in Marine Science                                      Credit(s): 1 to 3
@@ -12964,12 +12964,12 @@ PHI     381    G        Aesthetics                                              
 PHI     395             Junior Seminar                                                  Credit(s): 3                                    SBC: ESI
                         Prerequisites: U3 or U4 standing; PHI 200 and PHI 206
                         Note: Students may not add this course after the first week of the semester.
-                        #PHILOSOPHY OF BIOLOGY                                  43071       SEM     S01      W         04:00-06:50PM        HARRIMAN HLL    201    Robert Crease
+                                                43071       SEM     S01      W         04:00-06:50PM        HARRIMAN HLL    201    Robert Crease
 
 
 PHI     402    G        Analysis of Philosophic Texts                                   Credit(s): 3                                    SBC: HFA+
                         Prerequisite: PHI 200 and PHI 206; PHI 395; completion of the Upper Division Writing Requirement orWRT and SPK
-                        #ADORNO'S NEGATIVE DIALECTIC                            70379       LEC     01       TU        05:30-08:20PM        HARRIMAN HLL    201    Lorenzo Simpson
+                                         70379       LEC     01       TU        05:30-08:20PM        HARRIMAN HLL    201    Lorenzo Simpson
 
 
 PHI     444             Experiential Learning                                           Credit(s): 0                                    SBC: EXP+
@@ -13022,7 +13022,7 @@ Undergraduate Courses                                                           
 
 
 PHI     472    J        Topics in Asian Philosophy (I)                                   Credit(s): 3                                     SBC: HFA+
-                        #IBN ARABI                                               56314       LEC      02        W          05:30-08:20PM         FREY HALL                    112        William Chittick
+                                                            56314       LEC      02        W          05:30-08:20PM         FREY HALL                    112        William Chittick
 
 
 PHI     473    J        Orientalism                                                      Credit(s): 3                                     SBC: HFA+
@@ -14133,7 +14133,7 @@ POL     374    F        Global Issues in the U.N.                               
 
 POL     390             Topics in Political Science                                     Credit(s): 3
                         Prerequisites: U3 or U4 standing; one POL course announced with topic
-                        #ISIS AND MIDDLE EAST POLITICS                          70750       LEC    01       MW         05:30-06:50PM        FREY HALL                  317     TBA
+                                            70750       LEC    01       MW         05:30-06:50PM        FREY HALL                  317     TBA
 
 
 POL     391             Topics in Political Science                                     Credit(s): 3
@@ -14148,12 +14148,12 @@ Undergraduate Courses                                                           
 
 POL     391             Topics in Political Science                                       Credit(s): 3
                         Prerequisites: U3 or U4 standing; one POL course announced with topic
-                        #EROSION OF LIBERTIES & RIGHTS2                           49945       LEC       01      TH         05:30-08:30PM         SOCBEHAV SCI      S228   Robert Alessi
+                                                 49945       LEC       01      TH         05:30-08:30PM         SOCBEHAV SCI      S228   Robert Alessi
 
 
 POL     403             Seminar in Advanced Topics                                        Credit(s): 3
                         Prerequisite: Junior or Senior Standing
-                        #LEADERSHIP & RHETORIC                                    52095       SEM       S01     MW         02:30-03:50PM         FREY HALL         112    Frank Myers
+                                                        52095       SEM       S01     MW         02:30-03:50PM         FREY HALL         112    Frank Myers
 
 
 POL     447             Directed Readings in Pol Sci                                      Credit(s): 1 to 6
@@ -14263,7 +14263,7 @@ POL     476             Undergrad Teachng Practicum II                          
 POL     487             Directed Research                                                 Credit(s): 0 to 6                                SBC: ESI
                         Prerequisites: Political science major; 15 credits in political science; permission of instructor and department; permission of departmental research coordinator
                         may be substituted.
-                        #DIRECTED RESEARCH                                        44128       TUT       T01     APPT       TBA                   SOCBEHAV SCI                  S701         Helmut Norpoth
+                                                             44128       TUT       T01     APPT       TBA                   SOCBEHAV SCI                  S701         Helmut Norpoth
                                                                                   46955       TUT       T02     APPT       TBA                   SOCBEHAV SCI                  S701         Charles Taber
                                                                                   46956       TUT       T04     APPT       TBA                   SOCBEHAV SCI                  S701         Frank Myers
                                                                                   48342       TUT       T05     APPT       TBA                   SOCBEHAV SCI                  S701         Gallya Lahav
@@ -14579,7 +14579,7 @@ PSY     327             Human Dev: Educational Context                          
 PSY     329             Topics in Developmental Psych                                    Credit(s): 3
                         Prerequisites: PSY 220; Advisory Prerequisite: PSY 310
                         Note: This course uses the automatic wait list.
-                        #PEER VICTIMIZATION                                      54297      LEC     01       MW        02:30-03:50PM       JAVITS LECTR    103    Johanna Jarcho
+                                              54297      LEC     01       MW        02:30-03:50PM       JAVITS LECTR    103    Johanna Jarcho
                                                                                                                                                                   Brittany Speed
                                                                                                                                                                   Julia Feldman
                                                                                                                                                                   Tamara Rosen
@@ -14596,7 +14596,7 @@ PSY     346             Health Psychology                                       
 
 PSY     348             Topics in Social Psychology                                      Credit(s): 3
                         Note: This class has an automatic waitlist.
-                        #SOCIAL/PERSONALITY DEV.                                 51208      LEC     01       TUTH      10:00-11:20AM       ENGINEERING     143    Bonita London-Thompson
+                                                  51208      LEC     01       TUTH      10:00-11:20AM       ENGINEERING     143    Bonita London-Thompson
                                                                                                                                                                   Tessa Clarkson
                                                                                                                                                                   Brittany Harman
 
@@ -14604,18 +14604,18 @@ PSY     348             Topics in Social Psychology                             
 PSY     349             Topics in Social Psychology                                      Credit(s): 3
                         Advisory Prerequisite: PSY 310
                         Note: This course uses the automatic wait list.
-                        #PSYCHOLOGY OF WOMEN'S HEALTH                            54299      LEC     01       TUTH      02:30-03:50PM       JAVITS LECTR    110    Marci Lobel
+                                              54299      LEC     01       TUTH      02:30-03:50PM       JAVITS LECTR    110    Marci Lobel
                                                                                                                                                                   Ashley Araiza
                                                                                                                                                                   Ingrid Solano
 
 
 PSY     358             Topics in Biopsychology                                          Credit(s): 3
                         Note: This course uses the automatic wait list.
-                        #FUNCTIONAL NEUROANATOMY                                 54302      LEC     01       TUTH      11:30-12:50PM       FREY HALL       205    Alice Powers
+                                                   54302      LEC     01       TUTH      11:30-12:50PM       FREY HALL       205    Alice Powers
                                                                                                                                                                   Heather Garman
-                        #HORMONES AND BEHAVIOR                                   49607      LEC     02       MWF       12:00-12:53PM       JAVITS LECTR    101    Patricia Whitaker
+                                                  49607      LEC     02       MWF       12:00-12:53PM       JAVITS LECTR    101    Patricia Whitaker
                                                                                                                                                                   Nikita Francis
-                        #LEARNING AND MEMORY                                     51221      LEC     03       TUTH      04:00-05:20PM       JAVITS LECTR    103    Ryan Parsons
+                                                     51221      LEC     03       TUTH      04:00-05:20PM       JAVITS LECTR    103    Ryan Parsons
                                                                                                                                                                   Dominique Popescu
 
 
@@ -15402,13 +15402,13 @@ Undergraduate Courses                                                           
 
 SOC     390    F        Special Topics                                                   Credit(s): 3                                     SBC: SBS+
                         Prerequisites: SOC 105; U3 or U4 standing
-                        #SOCIOLOGY OF IDENTITY                                   42850       LEC      01        TUTH       10:00-11:20AM           SOCBEHAV SCI    N436   Kenneth Feldman
+                                                    42850       LEC      01        TUTH       10:00-11:20AM           SOCBEHAV SCI    N436   Kenneth Feldman
 
 
 SOC     391    F        Special Topics                                                   Credit(s): 3                                     SBC: SBS+
                         Prerequisites: SOC 105; U3 or U4 standing
                         Note: Seats reserved for U3 and U4. Others by permission of the instructor.
-                        #BODIES: A SOCIOLOGICAL PRIMER                           54204       LEC      01        W          10:00-12:50PM           SOCBEHAV SCI    N405   Theresa Tiso
+                                         54204       LEC      01        W          10:00-12:50PM           SOCBEHAV SCI    N405   Theresa Tiso
 
 
 SOC     444             Experiential Learning                                            Credit(s): 0                                     SBC: EXP+
@@ -15779,12 +15779,12 @@ SPN     398    I&3      Intro to Spanish Lit II                                 
 
 SPN     435    S3       Topics Lat Am Lit Col-Present                                    Credit(s): 3                                     SBC: ESI; HFA+
                         Prerequisite: SPN 395 or SPN 396 or SPN 397 or SPN 398
-                        #19TH C LAT AM LIT                                       70164       LEC      01        MW         02:30-03:50PM        MELVILLE LBR     W4530   Javier Uriarte
+                                                  70164       LEC      01        MW         02:30-03:50PM        MELVILLE LBR     W4530   Javier Uriarte
 
 
 SPN     445    S3       Topics Span Lit Mid Ages-Pres                                    Credit(s): 3                                     SBC: ESI; HFA+
                         Prerequisite: SPN 395 or SPN 396 or SPN 397 or SPN 398
-                        #SPANISH COMEDIA 17TH CENTURY                            51393       LEC      01        TUTH       04:00-05:20PM        FREY HALL        328     Victoriano Roncero-Lopez
+                                              51393       LEC      01        TUTH       04:00-05:20PM        FREY HALL        328     Victoriano Roncero-Lopez
 
 
 SPN     447    S3       Directed Readings                                                Credit(s): 1 to 6                                SBC: EXP+
@@ -16003,7 +16003,7 @@ SUS     302             Integrative Assessment Models                           
 
 SUS     350             Topics in Sustainability                                            Credit(s): 3
                         Prerequisite: SBC 111; U3/U4 status
-                        #ENV GRAPHICS & FILM                                        70075      LEC    11       TU            02:30-05:20PM    CHEMISTRY                    370        Jeong-A Seong
+                                                       70075      LEC    11       TU            02:30-05:20PM    CHEMISTRY                    370        Jeong-A Seong
 
 
 SUS     487             Research in Sustainability Stu                                      Credit(s): 1 to 6                            SBC: EXP+
@@ -16165,7 +16165,7 @@ THR     334    G        Performance Art I                                       
 
 THR     351             Topics in Performance                                            Credit(s): 3
                         Prerequisite: Permission of instructor
-                        #ACTS OF RACE AND JUSTICE                                70386       LEC      02         TUTH     10:00-11:50AM    STALLER CTR     1020   Elizabeth Bojsza
+                                                      70386       LEC      02         TUTH     10:00-11:50AM    STALLER CTR     1020   Elizabeth Bojsza
 
 
 THR     438             Directing I                                                      Credit(s): 3
@@ -16448,11 +16448,11 @@ WRT     200             Grammar and Style for Writers                           
 WRT     302    G        Critical Writing Seminar                                          Credit(s): 3                              SBC: HFA+
                         Prerequisite: WRT 102 or equivalent
                         NOTE EXCEEDS REQUIRED LENGTH OF 254 CHARACTERS
-                        #RHETORICS OF THE HERO                                    49506       LEC      01        MW     02:30-03:50PM    HUMANITIES                  3013      Wilbur Farley
-                        #RHETORIC AND WAR                                         49507       LEC      02        TUTH   02:30-03:50PM    HUMANITIES                  3014      Roger Thompson
-                        #AFRICAN AMERICAN RHETORIC                                49508       LEC      03        MW     05:30-06:50PM    HUMANITIES                  2047      Safet Dabovic
-                        #ADVANCED PLAYWRITING                                     50510       LEC      04        TUTH   10:00-11:20AM    PHYSICS                     P128      Kenneth Weitzman
-                        #CREATIVE NONFICTION                                      50946       LEC      05        TUTH   01:00-02:20PM    PSYCHOLOGY A                146       Jennifer Albanese
+                                                         49506       LEC      01        MW     02:30-03:50PM    HUMANITIES                  3013      Wilbur Farley
+                                                               49507       LEC      02        TUTH   02:30-03:50PM    HUMANITIES                  3014      Roger Thompson
+                                                       49508       LEC      03        MW     05:30-06:50PM    HUMANITIES                  2047      Safet Dabovic
+                                                             50510       LEC      04        TUTH   10:00-11:20AM    PHYSICS                     P128      Kenneth Weitzman
+                                                           50946       LEC      05        TUTH   01:00-02:20PM    PSYCHOLOGY A                146       Jennifer Albanese
 
 
 WRT     303             The Personal Essay                                                Credit(s): 3
@@ -16681,13 +16681,13 @@ WST     372    G        Topics in Women and Literature                          
 WST     392    H        Topics in Women & Science                                        Credit(s): 3                                  SBC: STAS
                         Prerequisite: WST major or minor, or WST 102 (formerly SSI/WST 102), or WST 103, or WST 301, or WST/; Advisory prerequisites: may be announced with
                         topic
-                        #CULTURES OF DISABILITY                                  54048        LEC     01        TUTH       04:00-05:20PM   FREY HALL             326          Lisa Diedrich
+                                                    54048        LEC     01        TUTH       04:00-05:20PM   FREY HALL             326          Lisa Diedrich
 
 
 WST     395    J        Topics in Global Feminism                                        Credit(s): 3                                  SBC: GLO; SBS+
                         Prerequisite: WST major or minor, or WST 102 (formerly SSI/WST 102), or WST 103, or WST 301, or WST/; Advisory prerequisites: may be announced with
                         topic
-                        #GLOBAL SCIENCE WOMEN'S HEALTH                           51638        LEC     01        TUTH       02:30-03:50PM   FREY HALL             326          Lisa Diedrich
+                                                 51638        LEC     01        TUTH       02:30-03:50PM   FREY HALL             326          Lisa Diedrich
                                                                                                                                                                               Allyse Knox
 
 
@@ -16919,7 +16919,7 @@ WST     488             Internship                                              
                         Prerequisites: Six credits toward the women's studies minor; permission of instructor and undergraduate director
                         Note: Obtain class number through department. S/U grading only.
                                                                                  42830        TUT    T01      APPT       TBA                  HUMANITIES      2126    Ritchie Calvin
-                        #WOMEN'S STUDIES HEALTH                                  45908        TUT    T04      APPT       TBA                  MELVILLE LBR    W0518   Nancy Hiemstra
+                                                  45908        TUT    T04      APPT       TBA                  MELVILLE LBR    W0518   Nancy Hiemstra
                         EDUCATN
                                                                                  50472        TUT    T27      APPT       TBA                                          Francoise Cromer
 
@@ -16941,9 +16941,3 @@ WST     496             Senior Honors Project II                                
                         Prerequisite: U4 standing; permission of instructor and department
                                                                                 50892        TUT   T04   APPT   TBA                     Nancy Hiemstra
                                                                                 50893        TUT   T05   APPT   TBA                     TBA
-
-
-
-
-Undergraduate Courses                                                                                                                              229
-
