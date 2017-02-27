@@ -13,12 +13,7 @@ public class Course {
 	private int endHour;
 	private int endMin;
 	private boolean[] days = {false,false,false,false,false};
-
-	private int RECstartHour;
-	private int RECstartMin;
-	private int RECendHour;
-	private int RECendMin;
-	private boolean[] RECDays= {false,false,false,false,false};
+	private ArrayList<Course> rec = new ArrayList<>();
 	
 	
 	public Course(int startHour, int startMin, int endHour, int endMin, boolean[] days){
@@ -30,22 +25,19 @@ public class Course {
 		this.days = days;
 	}
 	
-	public Course(int startHour, int startMin, int endHour, int endMin, boolean[] days, int RECstartHour, int RECstartMin, int RECendHour, int RECendMin, boolean[] RECDays){
+	public Course(int startHour, int startMin, int endHour, int endMin, boolean[] days, ArrayList<Course> rec){
 		//Setting course lecture times
 		this.startHour = startHour;
 		this.startMin = startMin;
 		this.endHour = endHour;
 		this.endMin = endMin;
 		this.days = days;
-		//Setting course rec times
-		this.RECstartHour = RECstartHour;
-		this.RECstartMin = RECstartMin;
-		this.RECendHour = RECendHour;
-		this.RECendMin = RECendMin;
-		this.RECDays = RECDays;
+		this.rec = rec;
 	}
 	
 	
-	
+	public String toString(){
+		return "" + startHour;
+	}
     
 }
